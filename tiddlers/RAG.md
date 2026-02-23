@@ -1,0 +1,1 @@
+檢索增強生成 (RAG, Retrieval-augmented generation) 是一種使大語言模型（LLM）能夠從外部資料來源中檢索並整合新資訊的技術。
