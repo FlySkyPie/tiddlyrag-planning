@@ -2,14 +2,16 @@
 {
   jsonrpc: "2.0",
   id: number | string,
-  result?: object,
-  error?: {
-    code: number,
-    message: string,
-    data?: unknown
+  method: "initialize",
+  params?: {
+    protocolVersion: string;
+    capabilities: ClientCapabilities;
+    clientInfo: Implementation;
   }
 }
 ```
+
+繼承 [Request](<#MCP Request>)。
 
 ---
 
