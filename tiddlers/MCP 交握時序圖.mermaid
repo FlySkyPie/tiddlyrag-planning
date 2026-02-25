@@ -1,0 +1,9 @@
+sequenceDiagram
+    participant C as Client
+    participant S as Server
+
+    C->>S: initialize request
+    S->>C: initialize response
+    C->>S: initialized notification
+    
+    Note over C,S: Connection ready for use
