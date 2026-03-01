@@ -1,4 +1,4 @@
-Microproject 顧名思義：微小的 Side Project。規模可以跟小學回家作業差不多，舉例來說：
+Microproject 顧名思義：微小的 Side Project，類似小專題，但是規模跟小學回家作業差不多，舉例來說：
 
 > 如何分類或擺放儲藏間的物品？
 
