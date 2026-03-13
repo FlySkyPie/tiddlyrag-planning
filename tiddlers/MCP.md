@@ -1,4 +1,4 @@
-MCP (Model Context Protocol) 是一種設計給 [LLM](#LLM) 使用的通訊協定，有兩種型態：
+MCP (Model Context Protocol) 是一種設計給 [LLM](#LLM) 使用的通訊協定，有幾種型態：
 
 - STDIO ([MCP over stdio](<#MCP over STDIO>))
 - HTTP SSE ([MCP over SSE](<#MCP over SSE>))
