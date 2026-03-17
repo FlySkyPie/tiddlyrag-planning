@@ -3,7 +3,7 @@
 - [基礎 RAG](<#基礎 RAG>)
 - [進階 RAG](<#進階 RAG>)
 - [模組化 RAG](<#模組化 RAG>)
-- Agentic RAG
+- [Agentic RAG](<#Agentic RAG>)
 - Self-RAG
 - Graph RAG
 
