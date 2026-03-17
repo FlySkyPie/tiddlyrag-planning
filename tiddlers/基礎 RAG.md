@@ -1,0 +1,1 @@
+基礎 RAG (Naive RAG) 是一種相對於進階 RAG (Advanced RAG) 的概念，即只實做了基本索引功能的 [RAG](#RAG) 系統。
