@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://repomix.com">
+  <a href="https://flyskypie.github.io/tiddlyrag-planning/">
     <img src="docs/logo.svg" alt="TiddlyRAG" width="300" height="auto" />
   </a>
 </div>
