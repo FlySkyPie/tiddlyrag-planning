@@ -1,0 +1,1 @@
+HTN (Hierarchical Task Network) 是建立在 [STRIPS](#STRIPS) 上的一種演算法。

@@ -1,0 +1,1 @@
+GOAP (Goal Oriented Action Planning) 是建立在 [STRIPS](#STRIPS) 上的一種演算法，並透過 A* 來解題。

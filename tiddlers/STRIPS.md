@@ -1,0 +1,1 @@
+STRIPS (Stanford Research Institute Problem Solver) 是一種問題模型。
