@@ -8,7 +8,7 @@ POC Type-C 又稱「EC-BT POC」，引入了 ECS (Entity-Component-System) 架�
 
 ## 發現與結論
 
-過程中排除了 [STRIPS](#STRIPS) 模型（包含 [GOAP](#GOAP) 和 [HTN](#HTN) ）兩種算法，並排除了 Utility AI，最後選擇行為樹作為 POC 實做標的，主要考量是彈性之餘的可預測性與可控性。
+過程中排除了 [STRIPS](#STRIPS) 模型（包含 [GOAP](#GOAP) 和 [HTN](#HTN) ）兩種算法、並排除了 Utility AI ...等古典 AI 算法，也排除了 [ReAct](#ReAct)，最後選擇行為樹作為 POC 實做標的，主要考量是彈性之餘的可預測性與可控性。
 
 經過條查，釐清了[行為樹解決方案覆蓋範圍](#行為樹解決方案覆蓋範圍)、[行為樹的歷史脈絡](#行為樹的歷史脈絡)。[BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) 是其中一個少數滿足作為解決方案條件又沒有被綁定在遊戲引擎的知名函式庫。
 
